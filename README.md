@@ -2,8 +2,8 @@
 ### 🔭 I’m currently working on gender differences in agriculture
 ### 🌱 I’m currently learning more about statustics, R and Python
 ### ⚡ I am using Github for my courses:
-### Python for applied machine learning
-### Decision analysis
+### - Python for applied machine learning
+### - Decision analysis
 
 
 <!--
