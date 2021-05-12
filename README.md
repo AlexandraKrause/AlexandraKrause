@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 🔭 I’m currently working on gender differences in agriculture
-# 🌱 I’m currently learning R and Python
+###🔭 I’m currently working on gender differences in agriculture
+### 🌱 I’m currently learning R and Python
 
 <!--
 **AlexandraKrause/AlexandraKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
