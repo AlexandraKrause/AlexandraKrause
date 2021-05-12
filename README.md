@@ -1,5 +1,5 @@
 ### Hi there 👋
-###🔭 I’m currently working on gender differences in agriculture
+### 🔭 I’m currently working on gender differences in agriculture
 ### 🌱 I’m currently learning R and Python
 
 <!--
