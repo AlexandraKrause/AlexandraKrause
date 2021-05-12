@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on gender differences in agriculture
-### 🌱 I’m currently learning R and Python
+### 🌱 I’m currently learning more about statustics, R and Python
+### ⚡ I am using Github for my courses:
+### Python for applied machine learning
+### Decision analysis
+
 
 <!--
 **AlexandraKrause/AlexandraKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
