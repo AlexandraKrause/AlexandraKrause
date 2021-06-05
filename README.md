@@ -6,7 +6,7 @@
 ### - Decision analysis 
 ### ✨ 🚜 🚜 🚜 🚜  ✨
 ### 😄 I am working in the gender group within the decision analysis course, 
-### researching about a worst-case-scenario plan for women in agriculture 
+### researching about retirenment of women in agriculture 
 
 <!--
 **AlexandraKrause/AlexandraKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
