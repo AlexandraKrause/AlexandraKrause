@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on gender differences in agriculture
 ### 🌱 I am always learning more about statistics, R and Python
-### ⚡ I am using Github for my course in Decision analysis 
+### ⚡ I was using Github for my course in Decision analysis 
 ### ✨ 🚜 🚜 🚜 🚜  ✨
 ### 😄 I was working in the gender group within the decision analysis course, 
 ###    researching about retirement of women in agriculture 
