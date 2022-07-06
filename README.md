@@ -1,7 +1,7 @@
 #### Hi there 👋
 #### 🔭 I am currently working on gender differences in agriculture
 #### 🌱 I am writing my master thesis about factors influencing rural farm women’s empowerment in agricultural development 
-#### ⚡ I am always learning more about statistics, R and Python
+#### ⚡ I am always learning more about statistics, R, Shiny and Python and everything related
 #### ✨ 🚜 🚜 🚜 🚜  ✨
 #### 😄 I was working in the gender group within the decision analysis course, 
 ####    researching about retirement of women in agriculture 
