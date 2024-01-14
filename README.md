@@ -1,8 +1,7 @@
 
 ## 👋 Hi there,   🚜 🚜 🚜 🚜  
-####    ✨ I am always learning more about R, Shiny, HTML, CSS, Python, statistics and everything related
+####    ✨ I am always learning more about R, Shiny, HTML, CSS, Python, Javascript, statistics and everything related
 
-####    🔭 I was working on nutrition in Vietnam.
-####    🌱 I was writing my master thesis about factors influencing rural farm women’s empowerment in agricultural development 
-####    😄 I was working in the gender group within the decision analysis course, researching about retirement of women in agriculture 
-####    🚜 I am interested in gender differences in agriculture ####
+####    🔭 I was working on nutrition intervention forecasting
+####    🌱 I was writing my master's thesis about factors influencing rural farm women’s empowerment in agricultural development, developing a shiny app
+####    😄 I was working in the gender group within the decision analysis course, researching the retirement of women in agriculture 
